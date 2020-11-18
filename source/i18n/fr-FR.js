@@ -37,15 +37,15 @@
                 "reset": "Réinitialiser"
             },
             "table": {
-                "rowsCount": "Show entries:",
-                "search": "Search:",
-                "info": "Showing $1 to $2 of $3 entries",
-                "prev": "Prev",
-                "next": "Next",
-                "all": "All",
-                "inspector": "Inspector",
-                "skip": "Goto page",
-                "empty": "Nothing to show"
+                "rowsCount": "Résultat(s) affiché(s):",
+                "search": "Rechercher:",
+                "info": "Résultat(s) $1 à $2 sur $3",
+                "prev": "Préc",
+                "next": "Suiv",
+                "all": "Tous",
+                "inspector": "Inspecteur",
+                "skip": "Aller à",
+                "empty": "Aucune donnée"
             }
         }
     });
