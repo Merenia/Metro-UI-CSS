@@ -24,11 +24,11 @@
             },
             "buttons": {
                 "ok": "OK",
-                "cancel": "Annulé",
+                "cancel": "Annuler",
                 "done": "Fait",
                 "today": "Aujourd'hui",
                 "now": "Maintenant",
-                "clear": "Effacé",
+                "clear": "Effacer",
                 "help": "Aide",
                 "yes": "Oui",
                 "no": "Non",
